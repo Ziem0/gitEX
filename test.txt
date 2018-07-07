@@ -11,3 +11,5 @@ changes for stash in terminal
 one more time terminal changes
 
 added new method from terminal
+
+new method from github
