@@ -1,19 +1,2 @@
 test
 
-<<<<<<< HEAD
-start
-
-does it work?
-
-i dont know
-
-||||||| merged common ancestors
-i dont know
-
-
-
-
-what is what
-=======
-start
->>>>>>> 133664023993d588a95b3de47cec7af19f516d53
