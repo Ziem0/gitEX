@@ -1,6 +1,10 @@
 test
 
+<<<<<<< HEAD
 
 
 
 new method from terminal
+=======
+new method github
+>>>>>>> 4d957dd7ff7e677c6b814835d04a27f3cca22353
