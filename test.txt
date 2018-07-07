@@ -9,3 +9,5 @@ changes in backup
 changes for stash in terminal
 
 one more time terminal changes
+
+added new method from terminal
