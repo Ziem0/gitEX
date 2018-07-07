@@ -1,7 +1,3 @@
 test
 
-<<<<<<< Updated upstream
-new method
-=======
-one more time
->>>>>>> Stashed changes
+
