@@ -6,6 +6,9 @@ second line
 
 changes in backup
 
+<<<<<<< Updated upstream
 changes for stash in github
 
+=======
 changes for stash in terminal
+>>>>>>> Stashed changes

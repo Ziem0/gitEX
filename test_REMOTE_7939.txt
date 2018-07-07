@@ -6,6 +6,4 @@ second line
 
 changes in backup
 
-changes for stash in github
-
 changes for stash in terminal
