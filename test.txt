@@ -1,10 +1,2 @@
 test
 
-method from terminal
-
-method from github
-
-one more method from terminal
-
-last
-

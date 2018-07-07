@@ -1,7 +1,1 @@
 test2
-
-This is first line for test2
-
-
-
-This is the last line for test2
