@@ -1,3 +1,5 @@
 test
 
 method from terminal
+
+method from github
