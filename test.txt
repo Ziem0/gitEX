@@ -1,1 +1,9 @@
-github
+start
+
+first ch
+this is it
+
+
+
+second ch
+it's about splitting
