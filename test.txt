@@ -1,8 +1,4 @@
 start
 
-first
+This is an empty commit
 
-
-
-
-second
