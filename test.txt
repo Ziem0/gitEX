@@ -1,4 +1,3 @@
 start
 
-This is an empty commit
-
+No more empty commit
