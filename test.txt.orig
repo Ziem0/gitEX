@@ -1,0 +1,13 @@
+start
+
+No more empty commit
+
+for pull
+<<<<<<< Updated upstream
+
+someone added changes
+||||||| merged common ancestors
+=======
+
+one more time
+>>>>>>> Stashed changes
