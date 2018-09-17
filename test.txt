@@ -1,13 +1,3 @@
 start
 
-No more empty commit
-
-for pull
-
-someone added changes
-
-one more time
-
-another 
-
-and the last one
+end 

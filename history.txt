@@ -1,0 +1,36 @@
+commit 1a0dce235583f7e38e849a2be8a6c15283d89bc4
+Merge: f03c317 83dff91
+Author: Ziem0 <andrzejewski.ziemo@gmail.com>
+Date:   Sat Jul 7 16:29:26 2018 +0200
+
+    ku
+
+commit 8fb49cd9c2fef352fe898bf4a80ebe156e361c55
+Merge: 2194c14 1336640
+Author: Ziem0 <andrzejewski.ziemo@gmail.com>
+Date:   Sat Jul 7 16:13:37 2018 +0200
+
+    dw
+
+commit 2bdf3a8c06f187e82f9a892a1975c8a6380adabc
+Merge: f8b2119 4d957dd
+Author: Ziem0 <andrzejewski.ziemo@gmail.com>
+Date:   Sat Jul 7 13:40:30 2018 +0200
+
+    ASDww
+
+commit 75c8666ead48395e6d9adf205263c61f5874cf16
+Merge: b8ddd65 f5444bc
+Author: Ziem0 <andrzejewski.ziemo@gmail.com>
+Date:   Sat Jul 7 13:34:13 2018 +0200
+
+    asd
+
+commit ac28a9a2566ddf18360d4133d7e445e4070ca1c0
+Merge: 98d0d73 d24cd58
+Author: Ziemowit Andrzejewski <31206690+Ziem0@users.noreply.github.com>
+Date:   Sat Jul 7 12:57:31 2018 +0200
+
+    Merge pull request #1 from Ziem0/backup
+    
+    added changes in backup
