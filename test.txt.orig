@@ -19,8 +19,12 @@ two}
 
 ala
 ola
+<<<<<<< Updated upstream
 
 stash from hub
+||||||| merged common ancestors
+=======
+ 
 
 for stash
-
+>>>>>>> Stashed changes
