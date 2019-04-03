@@ -9,3 +9,11 @@ so we can call it commit driven develompment :)
 
 ---------------------------------------------------
 general review
+
+
+method(){
+one}
+
+method2(){
+two}
+
