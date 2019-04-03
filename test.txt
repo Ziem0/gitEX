@@ -5,3 +5,7 @@ end
 this approach of commiting is related to Test Driven Development. It means that before we add changes to github and push, first we are supposed to add changes as long as these changes fullfil requiments given in description
 
 so we can call it commit driven develompment :)
+
+
+---------------------------------------------------
+general review
