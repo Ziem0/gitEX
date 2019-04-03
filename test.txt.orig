@@ -19,12 +19,19 @@ two}
 
 ala
 ola
-<<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 stash from hub
+for stash
+
+new package from hub
+
+
 ||||||| merged common ancestors
-=======
- 
+stash from hub
 
 for stash
+
+=======
+myComputer
 >>>>>>> Stashed changes
