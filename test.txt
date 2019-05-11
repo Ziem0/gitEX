@@ -11,5 +11,13 @@ so we can call it commit driven develompment :)
 general review
 
 
+tag v2 
 
-tagowanie
+
+public String z() {
+return "ziemo"; }
+
+
+public String x() {
+return "ok"; }
+
